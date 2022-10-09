@@ -1,0 +1,12 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@import "custom";
+
+@import "nouislider";
+
+.turbo-progress-bar {
+  height: 10px;
+  background-color: PeachPuff;
+}
